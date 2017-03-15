@@ -1,0 +1,2513 @@
+αββα:
+    ἀββα:
+        tags: ["accentuation"]
+        sources: ["bdag-headword"]
+    ἀββά:
+        tags: ["accentuation"]
+        sources: ["danker-entry", "mounce-headword"]
+    comment:
+        - BDAG has breathing but no accent
+        - Danker CL and Mounce have ἀββά
+        - SBLGNT doesn't accent Αββα so it would be consistent for the lemma not to be accented either (although should it be capitalized?)
+Ἅβελ:
+    Ἇβελ:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+    comment:
+        - any basis for Mounce's accentuation? check if it was a mistake in my original conversion to UTF-8
+Ἅγαβος:
+    Ἇγαβος:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+    comment:
+        - any basis for Mounce's accentuation? check if it was a mistake in my original conversion to UTF-8
+ἀγαθουργέω:
+    ἀγαθοεργέω:
+        tags: ["οε contraction"]
+        sources: ["danker-entry", "mounce-headword"]
+    comment:
+        - BDAG has contracted form ου but Danker CL and Mounce have οε
+ἄγε:
+    ἄγω:
+        tags: []
+        sources: ["mounce-headword"]
+    comment:
+        - interjection from present imperative of ἄγω
+        - Mounce must just treats this as ἄγω
+        - BDAG and Danker CL have a separate entry for it
+αἶνος:
+    αὶνος:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+    comment:
+        - this is just a bad accentuation in Mounce (likely as a result of my conversion to UTF-8)
+αἱρέομαι:
+    αἱρέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only in middle form in our text but BDAG, Danker CL and Mounce all prefer active αἱρέω as headword
+αἰσχύνομαι:
+    αἰσχύνη:
+        tags: ["η/ομαι"]
+        sources: ["bdag-headword", "danker-entry"]
+    comment:
+        - αἰσχύνη is a noun
+        - αἰσχύνομαι is a verb (in Danker CL as αἰσχύνω)
+        - lexemes.yaml is likely just wrong
+αἴτιον:
+    αἴτιος:
+        tags: ["ον/ος"]
+        sources: ["danker-entry", "mounce-headword", "bdag-headword"]
+    comment:
+        - Danker CL (and likely BDAG and Mounce) treat αἴτιος and αἴτιον as same lexeme
+        - entry in Danker CL suggests a difference in meaning that should be reflected in our analysis
+        - Danker CL suggests:
+            - Lk 23:4 is neuter (we have neuter but αἴτιος)
+            - Lk 23:22 is neuter? (we have neuter but αἴτιος)
+            - Ac 19:40 is neuter (we have neuter and αἴτιον)
+            - Hb 5:9 is masculine (we have masculine and αἴτιος)
+        - Danker CL does not comment on Lk 23:14
+ἀκριβέστερον:
+    ἀκριβῶς:
+        tags: ["-τερον"]
+        sources: ["danker-entry", "bdag-headword", "mounce-headword"]
+    comment:
+        - ἀκριβέστερον is the comparative of ἀκριβῶς and neither BDAG nor Danker CL treat it as a separate lexeme
+        - our analysis is inconsistent in adverb vs adjective (treating ἀκριβέστερον as an adjective 3 times and adverb once)
+ἅλα:
+    ἅλας:
+        tags: ["movable ς"]
+        sources: ["danker-entry"]
+    comment:
+        - Danker CL favours ἅλας as headword, giving older form ἅλα as a variant
+ἀλάβαστρον:
+    ἀλάβαστρος:
+        tags: []
+        sources: ["bdag-headword"]
+    comment:
+        - Danker CL combines both masculine/feminine and neuter entries into one (this being the latter)
+ἀλυπότερος:
+    ἄλυπος:
+        tags: ["-τερος"]
+        sources: ["danker-entry", "bdag-headword", "mounce-headword"]
+    comment:
+        - ἀλυπότερος is the comparative of ἄλυπος and neither BDAG nor Danker CL treat it as a separate lexeme
+Ἄλφα:
+    ἄλφα:
+        tags: ["case"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - BDAG and Danker CL prefer the lowercase spelling but in our analysis we're just following the text itself
+ἀμάρτυρος:
+    ἁμάρτυρος:
+        tags: ["accentuation"]
+        sources: ["danker-entry"]
+    comment:
+        - our text has smooth breathing
+        - Danker CL has rough breathing (and doesn't mention possibility of smooth)
+        - BDAG has smooth. What made Danker change his mind?
+ἀμύνομαι:
+    ἀμύνω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+    comment:
+        - Danker CL (as it often seems to) favours the active form ἀμύνω even against BDAG
+ἀμφιέννυμι:
+    ἀμφιέζω:
+        tags: ["ννυμι/ζω"]
+        sources: ["mounce-headword"]
+    comment:
+        - Mounce has the newer ἀμφιέζω (which is a separate entry in Danker CL) but not used in our analysis
+ἄν:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    comment:
+        - missing from my BDAG headword list so I need to check with printed BDAG
+ἀναβάλλομαι:
+    ἀναβάλλω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only in middle form in our text but BDAG, Danker CL and Mounce all prefer active ἀναβάλλω as headword
+ἀναγνωρίζομαι:
+    ἀναγνωρίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only in middle form in our text but BDAG, Danker CL and Mounce all prefer active ἀναγνωρίζω as headword
+ἀναλίσκω:
+    ἀναλόω:
+        tags: ["όω/ίσκω"]
+        sources: ["danker-entry"]
+    comment:
+        - Danker CL calls ἀναλόω a by-form of ἀναλίσκω and says that all forms in our text come from ἀναλόω
+ἀνανεόω:
+    ἀνανεόομαι:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+    comment:
+        - only middle form in our text, Danker CL has gone with middle headword but BDAG and Mounce prefer active ἀνανεόω as headword, which is what our analysis uses
+ἀνάπηρος:
+    ἀνάπειρος:
+        tags: ["ει/η"]
+        sources: ["danker-entry", "mounce-headword"]
+    comment:
+        - Danker CL calls ἀνάπειρος a by-form of ἀνάπηρος and, along with Mounce, prefers it as headword
+        - in our analysis it should probably be ἀνάπειρος given the forms in the text
+ἀνατάσσομαι:
+    ἀνατάσσω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+    comment:
+        - only middle form in our text, Danker CL has gone with active headword ἀνατάσσω but BDAG and Mounce prefer middle as headword, which is what our analysis uses
+ἀνατίθεμαι:
+    ἀνατίθημι:
+        tags: ["ημι/εμαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἀνατίθημι
+ἀνεμίζομαι:
+    ἀνεμίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἀνεμίζω
+ἀνέχομαι:
+    ἀνέχω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἀνέχω
+Ἅννα:
+    Ἇννα:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+    comment:
+        - any basis for Mounce's accentuation? check if it was a mistake in my original conversion to UTF-8
+Ἅννας:
+    Ἇννας:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+    comment:
+        - any basis for Mounce's accentuation? check if it was a mistake in my original conversion to UTF-8
+ἀντέχομαι:
+    ἀντέχω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἀντέχω
+ἀντιδιατίθεμαι:
+    ἀντιδιατίθημι:
+        tags: ["ημι/εμαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἀντιδιατίθημι
+ἀντιλαμβάνομαι:
+    ἀντιλαμβάνω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἀντιλαμβάνω
+ἀντιτάσσομαι:
+    ἀντιτάσσω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἀντιτάσσω
+ἀνώτερον:
+    ἀνώτερος:
+        tags: ["ον/ος"]
+        sources: ["danker-entry", "bdag-headword"]
+    comment:
+        - our analysis has both ἀνώτερον and ἀνώτερος as lemmas for the same form ἀνώτερον
+        - Danker CL claims ἀνώτερον is adverb from neuter comparative
+        - Danker CL and BDAG have ἀνώτερος as headword
+        - Mounce only has ἀνώτερον and as adverb
+ἀνώτερος:
+    comment:
+        - our analysis has both ἀνώτερον and ἀνώτερος as lemmas for the same form ἀνώτερον
+        - should Heb 10.8 really have lemma ἀνώτερον?
+        - Danker CL claims ἀνώτερον is adverb from neuter comparative
+        - Mounce only has ἀνώτερον and as adverb
+ἀπάγχομαι:
+    ἀπάγχω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἀπάγχω
+ἀπαλλοτριόομαι:
+    ἀπαλλοτριόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἀπαλλοτριόω
+ἄπειμι:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    comment:
+        - in our analysis, should we distinguish between the two lexemes this represents?
+        - need to check printed BDAG as likely only missing in my electronic list of headwords because of I./II.
+ἄπειρος:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    comment:
+        - need to check printed BDAG as seems odd to be missing
+ἀποκαθίστημι:
+    ἀποκαθίστημι/ἀποκαθιστάνω:
+        tags: ["μι/ω"]
+        sources: ["danker-entry"]
+    comment:
+        - our analysis only has ἀποκαθίστημι as lemma
+        - Danker CL treats ἀποκαθίστημι and ἀποκαθιστάνω equally as lemmas
+        - not sure we have any basis for choosing between the two options for lemma
+ἀποκρίνομαι:
+    ἀποκρίνω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+    comment:
+        - our text and analysis only has middle/passive forms
+        - Danker CL (as it often seems to) favours the active form ἀποκρίνω even against BDAG
+ἀποκτείνω:
+    ἀποκτείνω/ἀποκτέννω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+    comment:
+        - our analysis only has ἀποκτείνω as lemma
+        - Danker CL treats ἀποκτείνω and ἀποκτέννω equally as lemmas
+        - not sure if there are some forms in our text better explained with ἀποκτέννω rather than ἀποκτείνω
+        - not sure we otherwise have any basis for choosing between the two options for lemma
+ἀπολούομαι:
+    ἀπολούω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἀπολούω
+ἀπομάσσομαι:
+    ἀπομάσσω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἀπομάσσω
+ἀπορίπτω:
+    ἀπο(ρ)ρίπτω:
+        tags: ["double ρ"]
+        sources: ["danker-entry"]
+    comment:
+        - Danker CL allows for single and double rho in same headword
+        - BDAG has two separate entries
+        - our text only has single rho
+ἀποτάσσομαι:
+    ἀποτάσσω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἀποτάσσω
+ἀποτρέπομαι:
+    ἀποτρέπω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἀποτρέπω
+ἀποχωρίζομαι:
+    ἀποχωρίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle/passive form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἀποχωρίζω
+Ἀππίου:
+    Ἄππιος:
+        tags: ["inflected partial"]
+        sources: ["mounce-headword"]
+    Ἀππίου φόρον:
+        tags: []
+        sources: ["bdag-headword"]
+    Ἀππίου Φόρον:
+        tags: ["space in value"]
+        sources: ["danker-entry"]
+    comment:
+        - our analysis splits Ἀππίου Φόρου into two with lemmata Ἀππίου and Φόρον
+        - Danker CL has Ἀππίου Φόρον as a single entry
+        - BDAG has Ἀππίου φόρον as a single entry
+        - Mounce has an entry with the lemma Ἄππιος
+        - more general question of how to handle what could be viewed as a multi-word entry
+ἀπωθέομαι:
+    ἀπωθέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἀπωθέω
+ἆρα:
+    ὰρα:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+    comment:
+        - this is just a bad accentuation in Mounce (likely as a result of my conversion to UTF-8)
+Ἄρειος:
+    Ἄρειος πάγος:
+        tags: ["space in value"]
+        sources: ["danker-entry", "bdag-headword"]
+    comment:
+        - our analysis splits Ἄρειον Πάγον and Ἀρείου Πάγου into two with lemmata Ἄρειος and Πάγος
+        - Danker CL and BDAG have Ἄρειος πάγος as a single entry
+        - Mounce has an entry with the lemma Ἄρειος
+        - more general question of how to handle what could be viewed as a multi-word entry
+Ἁρμαγεδών:
+    Ἁρμαγεδ(δ)ών:
+        tags: ["double δ"]
+        sources: ["danker-entry"]
+    comment:
+        - Danker CL allows for single and double delta in same headword
+        - BDAG has two separate entries
+        - our text only has single delta
+ἁρμόζομαι:
+    ἁρμόζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle form in our text (and analysis) but BDAG, Danker CL and Mounce all have active headword ἁρμόζω
+ἆσσον:
+    ὰσσον:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+    comment:
+        - this is just a bad accentuation in Mounce (likely as a result of my conversion to UTF-8)
+Αὐγοῦστος:
+    Αὔγουστος:
+        tags: ["accentuation"]
+        sources: ["bdag-headword", "danker-entry"]
+    comment:
+        - BDAG and Danker CL favour proparoxytone
+        - Mounce and our analysis favour properispomenon
+        - text itself seems to favour properispomenon
+αὐξάνω:
+    αὐξάνω/αὔξω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+    comment:
+        - Danker CL considers αὐξάνω and αὔξω in the same entry
+        - Mounce gives separate G/K numbers for them but has αὔξω as just 'see αὐξάνω'
+        - BDAG has both in headword list but I need to check printed to see if one references the other
+        - our analysis uses both as lemmas
+αὔξω:
+    αὐξάνω/αὔξω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+    comment:
+        - Danker CL considers αὐξάνω and αὔξω in the same entry
+        - Mounce gives separate G/K numbers for them but has αὔξω as just 'see αὐξάνω'
+        - BDAG has both in headword list but I need to check printed to see if one references the other
+        - our analysis uses both as lemmas
+αὐτοῦ:
+    <missing>:
+        tags: []
+        sources: ["mounce-headword"]
+    comment:
+        - Mounce does not appear to have an entry for the adverb αὐτοῦ. It may just treat it as αὐτός
+ἀφίσταμαι:
+    ἀφίστημι:
+        tags: ["ημι/αμαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle lemma in our analysis but BDAG, Danker CL and Mounce all have active headword ἀφίστημι
+        - the active form does seem to appear in our text
+ἀχρειόομαι:
+    ἀχρειόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle lemma in our analysis but BDAG, Danker CL and Mounce all have active headword ἀχρειόω
+        - text only has passive form (Danker CL claims in active sense but I dispute that)
+ἄχρις:
+    ἄχρι:
+        tags: ["movable ς"]
+        sources: ["bdag-headword", "mounce-headword"]
+    ἄχρι, ἄχρις:
+        tags: ["movable ς", ", in value @@"]
+        sources: ["danker-entry"]
+    comment:
+        - BDAG and Mounce have ἄχρι (possibly BDAG mentions ἄχρις in entry)
+        - Danker CL has ἄχρι, ἄχρις as single entry
+        - our analysis treats ἄχρι and ἄχρις as distinct (they should probably be merged)
+ἄψινθος:
+    ἀψίνθιον/ἄψινθος:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+    ἀψίνθιον:
+        tags: []
+        sources: ["bdag-headword"]
+    comment:
+        - because the text treats ἄψινθος and Ἄψινθος distinctly, so does our lemmatization
+        - Danker CL combines ἀψίνθιον and ἄψινθος in headword (and includes Ἄψινθος in the entry)
+        - BDAG just has ἀψίνθιον as headword (need to check printed copy for ἄψινθος/Ἄψινθος)
+        - Mounce has separate entries for ἀψίνθιον ἄψινθος but not for Ἄψινθος
+Ἄψινθος:
+    ἀψίνθιον/ἄψινθος:
+        tags: ["/ in value @@", "case"]
+        sources: ["danker-entry"]
+    ἄψινθος:
+        tags: ["case"]
+        sources: ["mounce-headword"]
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    comment:
+        - because the text treats ἄψινθος and Ἄψινθος distinctly, so does our lemmatization
+        - Danker CL combines ἀψίνθιον and ἄψινθος in headword (and includes Ἄψινθος in the entry)
+        - BDAG just has ἀψίνθιον as headword (need to check printed copy for ἄψινθος/Ἄψινθος)
+        - Mounce has separate entries for ἀψίνθιον ἄψινθος but not for Ἄψινθος
+βάϊον:
+    βαΐον:
+        tags: ["accentuation"]
+        sources: ["bdag-headword"]
+    βαΐον/βάϊον:
+        tags: ["accentuation"]
+        sources: ["danker-entry"]
+    comment:
+        - Danker CL has combined entry βαΐον/βάϊον for both accentuations
+        - our analysis has βάϊον but text suggests βαΐον may be better
+        - BDAG prefers βαΐον
+        - Mounce prefers βάϊον
+Βαριησοῦς:
+    Βαριησοῦ:
+        tags: []
+        sources: ["bdag-headword"]
+    comment:
+        - what is the basis for BDAG's Βαριησοῦ vs Βαριησοῦς? (need to check printed copy)
+Βαριωνᾶ:
+    Βαριωνᾶ/Βαριωνᾶς:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+    comment:
+        - Danker CL has combined Βαριωνᾶ/Βαριωνᾶς headword allowing both indeclinable and declinable forms
+        - only indeclinable form appears in our text
+βασίλειον:
+    βασίλειος:
+        tags: ["ον/ος"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - both βασίλειον and βασίλειος appear in our analysis as lemmata
+        - BDAG, Danker CL and Mounce only have βασίλειος
+        - should we just change Lk 7.25 to βασίλειος?
+βάτος:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    comment:
+        - this is always and interesting case because there are two distinct lexemes, one of which has two genders
+        - need to check printed BDAG as likely only missing in my electronic list of headwords because of I./II.
+        - as well as checking BDAG, we need to decide how best to model these lexemes
+βέλτιον:
+    βελτίων:
+        tags: ["comp/adv"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - Danker CL identifies it as a neuter comparative functioning as adverb
+        - Robinson analysis has ADV-C but CCAT analysis has A<ASNC>
+        - BDAG, Danker CL and Mounce all prefer βελτίων
+        - key question is: is this simply *functioning* as an adverb or do we say it *is* an adverb, derived from an adjective (latter is my leaning)
+Βενιαμίν:
+    Βενιαμ(ε)ίν:
+        tags: ["ει/ι"]
+        sources: ["danker-entry"]
+    comment:
+        - Danker CL merges both spellings into one entry
+        - BDAG has two separate entries, Βενιαμίν and Βενιαμείν
+        - Mounce only gives Βενιαμίν but there's a gap in the G/K which could mean Βενιαμείν is 1020
+Βηθσαϊδά:
+    Βηθσαϊδά(ν):
+        tags: ["movable ν"]
+        sources: ["danker-entry"]
+    comment:
+        - BDAG and Mounce have separate entries for Βηθσαϊδά and Βηθσαϊδάν
+        - Danker CL combines Βηθσαϊδά and Βηθσαϊδάν as a single entry
+Βηθσαϊδάν:
+    Βηθσαϊδά(ν):
+        tags: ["movable ν"]
+        sources: ["danker-entry"]
+    comment:
+        - BDAG and Mounce have separate entries for Βηθσαϊδά and Βηθσαϊδάν
+        - Danker CL combines Βηθσαϊδά and Βηθσαϊδάν as a single entry
+βλαστάνω:
+    βλαστάνω/βλαστάω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+    comment:
+        - BDAG only has βλαστάνω
+        - Mounce only has βλαστάνω but there's a gap in the G/K which means βλαστάω could be 1057
+        - Danker CL has combined entry βλαστάνω/βλαστάω
+βουλεύομαι:
+    βουλεύω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle lemma in our analysis but BDAG, Danker CL and Mounce all have active headword βουλεύω
+βραχύ:
+    βραχύς:
+        tags: ["movable ς"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - BDAG, Danker CL and Mounce all just have βραχύς as headword
+        - our analysis treats βραχύ and βραχύς as distinct depending on adverb vs adjective
+        - decision on this relates to whether "adjective functioning as adverb" warrants a separate lexeme
+Γαββαθα:
+    Γαββαθᾶ:
+        tags: ["accentuation"]
+        sources: ["bdag-headword", "mounce-headword"]
+    Γαββαθά:
+        tags: ["accentuation"]
+        sources: ["danker-entry"]
+    comment:
+        - BDAG and Mounce have Γαββαθᾶ
+        - Danker CL has Γαββαθά (what is basis for Danker CL differing from BDAG?)
+        - SBLGNT doesn't accent foreign proper names so analysis follows that
+γαζοφυλάκιον:
+    γαζοφυλακεῖον/γαζαφυλάκιον:
+        tags: ["ει/ι"]
+        sources: ["danker-entry"]
+    comment:
+        - only Danker CL supports an ει/ι spelling variant in the headword itself
+Γάϊος:
+    Γάϊος/Γαῖος:
+        tags: ["diaeresis"]
+        sources: ["danker-entry"]
+    comment:
+        - only Danker supports the version without the diaeresis in the headword itself
+γενεαλογέομαι:
+    γενεαλογέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle lemma in our analysis but BDAG, Danker CL and Mounce all have active headword γενεαλογέω
+δανείζω:
+    δανίζω:
+        tags: []
+        sources: ["mounce-headword"]
+    δαν(ε)ίζω:
+        tags: ["ει/ι"]
+        sources: ["danker-entry"]
+    comment:
+        - BDAG has two separate entries δανίζω and δανείζω
+        - Danker CL has a single entry δαν(ε)ίζω
+        - Mounce only has δανίζω but there's a G/K gap which *may* fit δανείζω at 1246
+        - the forms in our text suggest δανίζω as a preferred lemma for our analysis
+δάνειον:
+    δάν(ε)ιον:
+        tags: ["ει/ι"]
+        sources: ["danker-entry"]
+    comment:
+        - BDAG has two separate entries δάνιον and δάνειον
+        - Danker CL has a single entry δάν(ε)ιον
+        - Mounce only has δάνειον
+        - the form in our text suggests staying with δάνειον
+δανιστής:
+    δαν(ε)ιστής:
+        tags: ["ει/ι"]
+        sources: ["danker-entry"]
+    comment:
+        - BDAG has two separate entries δανιστής and δανειστής
+        - Danker CL has a single entry δαν(ε)ιστής
+        - Mounce only has δανιστής
+        - the form in our text suggests staying with δανιστής
+δείκνυμι:
+    δείκνυμι/δεικνύω:
+        tags: ["μι/ω"]
+        sources: ["danker-entry"]
+    comment:
+        - BDAG only has δείκνυμι
+        - Danker CL has a single entry δείκνυμι/δεικνύω
+        - Mounce only has δείκνυμι but there's a G/K gap 1260 which could fit δεικνύω
+        - not clear how we would pick between these two lemmata although some analysis of forms in text might be worthwhile
+δεκαοκτώ:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    comment:
+        - BDAG doesn't have a separate entry for δεκαοκτώ
+δεκαπέντε:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    comment:
+        - BDAG doesn't have a separate entry for δεκαπέντε
+δεκάτη:
+    δέκατος:
+        tags: ["η/ος"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - BDAG, Danker CL and Mounce all prefer δέκατος
+        - our analysis should probably just use δέκατος for lemma
+δεσμόν:
+    δεσμός:
+        tags: ["ον/ος"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - our analysis has both δεσμόν (only in plural) and δεσμός
+        - Danker CL only has δεσμός but mentions use of neuter plural
+        - BDAG and Mounce only have δεσμός
+        - how do we model this?
+Διάβολος:
+    διάβολος:
+        tags: ["case"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - BDAG, Danker CL and Mounce all only have lowercase
+        - following from our rule that lemmatization doesn't change case, we're left with need for separate Διάβολος entry
+διαπρίομαι:
+    διαπρίω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only in middle form in our text but BDAG, Danker CL and Mounce all prefer active διαπρίω as headword
+διαρρήγνυμι:
+    δια(ρ)ρήγνυμι/διαρήσσω:
+        tags: ["μι/ω"]
+        sources: ["danker-entry"]
+    comment:
+        - BDAG has διαρήγνυμι and διαρρήγνυμι
+        - Mounce has διαρήσσω and διαρρήγνυμι
+        - Danker CL has διαρήγνυμι, διαρρήγνυμι and διαρήσσω all in one headword
+        - our analysis only has διαρρήγνυμι and the forms in the text suggest no reason to change that
+διαστέλλομαι:
+    διαστέλλω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only in middle form in our text but BDAG, Danker CL and Mounce all prefer active διαστέλλω as headword
+διατίθεμαι:
+    διατίθημι:
+        tags: ["ημι/εμαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only in middle form in our text but BDAG, Danker CL and Mounce all prefer active διατίθημι as headword
+διαχειρίζομαι:
+    διαχειρίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only in middle form in our text but BDAG, Danker CL and Mounce all prefer active διαχειρίζω as headword
+διαχωρίζομαι:
+    διαχωριζω:
+        tags: ["ω/ομαι", "accentuation"]
+        sources: ["bdag-headword"]
+    διαχωρίζω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry", "mounce-headword"]
+    comment:
+        - only in middle form in our text but BDAG, Danker CL and Mounce all prefer active διαχωρίζω as headword
+        - BDAG headword list has unaccented διαχωριζω but that's clearly just a glitch and I assume printed has διαχωρίζω
+δογματίζομαι:
+    δογματίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only in middle form in our text but BDAG, Danker CL and Mounce all prefer active δογματίζω as headword
+δωδεκάφυλον:
+    δωδεκάφυλος:
+        tags: []
+        sources: ["bdag-headword"]
+    comment:
+        - I'm not sure why BDAG has δωδεκάφυλος
+ἐγγύτερον:
+    ἐγγύς:
+        tags: ["-τερον"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - ἐγγύτερον is the comparative of ἐγγύς and neither BDAG nor Danker CL treat it as a separate lexeme
+        - is G/K 1585 == ἐγγύτερον?
+εἶδος:
+    εὶδος:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+    comment:
+        - this is just a bad accentuation in Mounce (likely as a result of my conversion to UTF-8)
+εἰδωλόθυτον:
+    εἰδωλόθυτος:
+        tags: ["ον/ος"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - treated in our analysis as an adjective (so choice of neuter lemma is odd)
+        - Danker CL claims only used as a noun
+        - analysis should change either part-of-speech or lemma as currently inconsistent choice
+εἴκοσι(ν):
+    εἴκοσι:
+        tags: ["movable ν"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+         - only ever as εἴκοσι in our text
+         - is the movable-ν a mistake? Danker CL doesn't offer it as a possibility
+εἴπερ:
+    εἰ w. περ:
+        tags: ["space in value"]
+        sources: ["danker-entry"]
+    comment:
+        - Danker CL prefers εἴπερ as two separate words, but clearly it isn't in our text
+εἰσκαλέομαι:
+    εἰσκαλέω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+    comment:
+        - only the middle occurs in our analysis
+        - Danker CL (as it often seems to) favours the active form εἰσκαλέω even against BDAG
+εἰσπορεύομαι:
+    εἰσπορεύω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+    comment:
+        - only the middle occurs in our analysis
+        - Danker CL (as it often seems to) favours the active form εἰσπορεύω even against BDAG
+εἶτα:
+    εὶτα:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+    comment:
+        - this is just a bad accentuation in Mounce (likely as a result of my conversion to UTF-8)
+ἑκατόνταρχος:
+    ἑκατοντάρχης:
+        tags: ["ης/ος"]
+        sources: ["danker-entry"]
+    comment:
+        - our analysis has both ἑκατόνταρχος and ἑκατοντάρχης
+        - BDAG and Mounce have both as separate entries
+        - Danker CL combined them with headword ἑκατοντάρχης / ἑκατόνταρχος (somehow lost in lexeme.yaml)
+        - we should update lexeme.yaml to reflect Danker's headword combination
+ἔκγονον:
+    ἔκγονος:
+        tags: ["ον/ος"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - treated in our analysis as an adjective (so choice of neuter lemma is odd)
+        - BDAG only has ἔκγονος
+        - Mounce only has ἔκγονος but there is a gap in G/K which could be ἔκγονον (1680)
+        - Danker CL suggests 1Ti 5.4 is a noun
+        - analysis should change either part-of-speech or lemma as currently inconsistent choice
+ἐκδαπανάομαι:
+    ἐκδαπανάω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only in passive form (middle lemma) in our text but BDAG, Danker CL and Mounce all prefer active δογματίζω as headword
+ἐκθαμβέομαι:
+    ἐκθαμβέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only passive in our text but BDAG, Danker CL and Mounce all prefer active ἐκθαμβέω as headword
+ἐκκαίομαι:
+    ἐκκαίω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only passive in our text but BDAG, Danker CL and Mounce all prefer active ἐκκαίω as headword
+ἐκκρέμαμαι:
+    ἐκκρεμάννυμι:
+        tags: ["αννυμι/αμαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle in our text but BDAG, Danker CL and Mounce all prefer active ἐκκρεμάννυμι as headword
+ἐκλανθάνω:
+    ἐκλανθάνομαι:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "mounce-headword"]
+    comment:
+        - our text has the active lemma (although form in text is middle)
+        - BDAG and Mounce prefer middle lemma ἐκλανθάνομαι but Danker CL prefers the active
+ἐκλέγομαι:
+    ἐκλέγω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+    comment:
+        - only the middle occurs in our analysis
+        - Danker CL (as it often seems to) favours the active form ἐκλέγω even against BDAG
+ἐκλύομαι:
+    ἐκλύω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle/passive in our text but BDAG, Danker CL and Mounce all prefer active ἐκλύω as headword
+ἐκπλήσσομαι:
+    ἐκπλήσσω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle/passive in our text but BDAG, Danker CL and Mounce all prefer active ἐκπλήσσω as headword
+ἐκστρέφομαι:
+    ἐκστρέφω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle in our text but BDAG, Danker CL and Mounce all prefer active ἐκστρέφω as headword
+ἐκτενέστερον:
+    ἐκτενῶς:
+        tags: ["-τερον"]
+        sources: ["bdag-headword", "mounce-headword"]
+    comment:
+        - our analysis has both ἐκτενέστερον (adjective in Lk) and ἐκτενῶς (adverb in Ac and 1Pe)
+        - Danker CL just has ἐκτενῶς entry (with ἐκτενέστερον as comparative adverb within it)
+        - lexemes.yaml must have bad danker-entry
+        - BDAG only has ἐκτενῶς
+        - Mounce only has ἐκτενῶς
+        - should our analysis of ἐκτενέστερον be changed to adverb?
+ἐκτρέπομαι:
+    ἐκτρέπω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - only middle in our text but BDAG, Danker CL and Mounce all prefer active ἐκστρέφω as headword
+ἐκχέω:
+    ἐκχέω/ἐκχύν(ν)ω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+    comment:
+        - BDAG has ἐκχέω and ἐκχύνω ἐκχύννω as separate headwords
+        - Danker combines them
+        - Mounce only has ἐκχέω but there is a G/K gap at 1773
+        - our analysis only uses ἐκχέω although there are forms obviously based on ἐκχύν(ν)ω
+Ἐλαιῶν:
+    ἐλαία:
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - ἐλαία = olive tree; hence τὸ ὄρος τῶν ἐλαιῶν = mount of olives
+        - ἐλαιών (note accent) is an olive grove
+        - BDAG, Mounce and Danker CL all have ἐλαιών and ἐλαία as separate entries
+        - Danker CL includes the sense τὸ ὄρος τῶν ἐλαιῶν under ἐλαία, not ἐλαιών
+        - I'll have to check BDAG to see where it puts the τὸ ὄρος τῶν ἐλαιῶν case
+        - our normalized text has both ἐλαιῶν and Ἐλαιῶν which are lemmatized ἐλαία and Ἐλαιῶν respectively
+        - we may need to review each on a case-by-case basis
+        - this is related to how we handle oblique cases in multi-word proper nouns elsewhere
+ἐλάσσων:
+    ἐλάσσων/ἔλασσον:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+    comment:
+        - our analysis only has ἐλάσσων as lemma
+        - Danker CL treats ἐλάσσων and ἔλασσον equally as lemmas
+        - some actual forms seems to suggest Attic forms ἔλαττων/ἔλαττον as well
+        - should we have different lemmas where appropriate?
+        - not sure we otherwise have any basis for choosing between the two options for lemma
+Ἐλιακίμ:
+    Ἐλιακίμ/Ἐλιακείμ:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+    comment:
+        - our analysis only has Ἐλιακίμ but Danker CL allows for both Ἐλιακίμ and Ἐλιακείμ in same entry
+ἑλκόομαι:
+    ἑλκόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+    comment:
+        - our text and analysis only has middle/passive form
+        - Danker CL (as it often seems to) favours the active form ἑλκόω even against BDAG
+ἕλκω:
+    ἑλκύω/ἕλκω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+    ἑλκύω:
+        tags: ["ύω/ω"]
+        sources: ["mounce-headword"]
+    comment:
+        - Danker CL treats ἑλκύω and ἕλκω under the same heading
+        - out text has some forms (in future and aorist) that seem to come
+          from ἑλκύω and some forms (in imperfect and present) that seem
+          to come from ἕλκω
+        - our analysis only uses ἕλκω as lemma
+        - BDAG has ἕλκω and ἑλκύω as separate headwords
+        - Mounce only has ἑλκύω
+        - not sure how we would decide which lemma to use
+ἐλλογέω:
+    ἐλλογέω/ἐλλογάω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+    comment:
+        - Mounce has separate entries for ἐλλογέω and ἐλλογάω
+        - BDAG only has ἐλλογέω
+        - Danker CL combines ἐλλογέω and ἐλλογάω in the same entry
+        - in one form (in Romans) in our text, ἐλλογέω is suggested but the imperative in Philemon suggests a lemma of ἐλλογάω
+ἐλωΐ:
+    ελωι:
+        tags: ["accentuation"]
+        sources: ["danker-entry"]
+    comment:
+        - Danker CL does not use accents or breathing for this indeclinable Aramaic words
+        - BDAG and Mounce, however, do accent it
+        - our text accents it
+
+
+
+Ἑμμώρ:
+    Ἐμμώρ:
+        tags: ["accentuation"]
+        sources: ["danker-entry"]
+ἐμπίμπλημι:
+    ἐμπί(μ)πλημι/ἐμπι(μ)πλάω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+ἐμπίμπρημι:
+    ἐμπί(μ)πρημι:
+        tags: ["(μ)π"]
+        sources: ["danker-entry"]
+ἐμπλέκομαι:
+    ἐμπλέκω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ἐνάλιον:
+    ἐνάλιος:
+        tags: ["ον/ος"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ἐνδέχεται:
+    ἐνδέχομαι:
+        tags: ["ομαι/εται"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ἐνδοξάζομαι:
+    ἐνδοξάζω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+ἕνεκεν:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    ἕνεκα:
+        tags: ["εν/α"]
+        sources: ["danker-entry"]
+ἐνέος:
+    ἐνεός:
+        tags: ["accentuation"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ἔννυχα:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword", "mounce-headword"]
+    ἔννυχος:
+        tags: ["ος/α"]
+        sources: ["danker-entry"]
+ἐντέλλομαι:
+    ἐντέλλω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ἐντρέφομαι:
+    ἐντρέφω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ἐξαιτέομαι:
+    ἐξαιτέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ἐξαπορέομαι:
+    ἐξαπορέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ἔξειμι:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+ἐξεραυνάω:
+    ἐξεραυνόω:
+        tags: ["οω/αω"]
+        sources: ["danker-entry"]
+ἔξεστι(ν):
+    ἔξεστι:
+        tags: ["movable ν"]
+        sources: ["danker-entry", "mounce-headword"]
+    ἔξεστιν:
+        tags: ["movable ν"]
+        sources: ["bdag-headword"]
+ἐξηχέομαι:
+    ἐξηχέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ἐξουδενέω:
+    ἐξουδενέω/ἐξουδενόω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+ἐξουθενέω:
+    ἐξουθενέω/ἐξουθενόω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+ἐπαγγέλλομαι:
+    ἐπαγγέλλω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+ἐπαθροίζομαι:
+    ἐπαθροίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ἐπαναπαύομαι:
+    ἐπαναπαύω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+ἐπανίσταμαι:
+    ἐπανίστημι:
+        tags: ["ημι/αμαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ἐπιλαμβάνομαι:
+    ἐπιλαμβάνω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+ἐπιράπτω:
+    ἐπι(ρ)ράπτω:
+        tags: ["double ρ"]
+        sources: ["danker-entry"]
+ἐπιρίπτω:
+    ἐπι(ρ)ρίπτω:
+        tags: ["double ρ"]
+        sources: ["danker-entry"]
+ἐπισκευάζομαι:
+    ἐπισκευάζω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+ἐπισπάομαι:
+    ἐπισπάω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword"]
+ἐπονομάζομαι:
+    ἐπονομάζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ἐρημόομαι:
+    ἐρημόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+Ἐρυθρός:
+    ἐρυθρός:
+        tags: ["case"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ἐσθίω:
+    ἐσθίω/ἔσθω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+ἔσθω:
+    ἐσθίω/ἔσθω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+εὖ:
+    εὺ:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+εὖγε:
+    εὺγε:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+εὐκοπώτερος:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    εὔκοπος:
+        tags: ["-τερος"]
+        sources: ["danker-entry", "mounce-headword"]
+εὐοδόομαι:
+    εὐοδόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+εὐπάρεδρον:
+    εὐπάρεδρος:
+        tags: ["ον/ος"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+εὐπορέομαι:
+    εὐπορέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+εὐφημία:
+    ἐυφημία:
+        tags: ["accentuation"]
+        sources: ["danker-entry"]
+εὐχαριστέω:
+    ἐυχαριστέω:
+        tags: ["accentuation"]
+        sources: ["danker-entry"]
+ἐφοράω:
+    <missing>:
+        tags: []
+        sources: ["danker-entry"]
+εφφαθα:
+    ἐφφαθά:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+
+
+ζάω:
+    ζῶ:
+        tags: ["ύω/ω"]
+        sources: ["danker-entry"]
+Ζηλωτής:
+    ζηλωτής:
+        tags: ["case"]
+        sources: ["danker-entry", "mounce-headword"]
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+ζώννυμι:
+    ζώννυμι/ζωννύω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+ζῳογονέω:
+    ζωογονέω:
+        tags: ["accentuation"]
+        sources: ["bdag-headword", "danker-entry"]
+    ζώογονέω:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+ζῳοποιέω:
+    ζωοποιέω:
+        tags: ["accentuation"]
+        sources: ["bdag-headword", "danker-entry"]
+    ζώοποιέω:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+ἥδιστα:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    ἡδέως:
+        tags: ["@@@"]
+        sources: ["danker-entry", "mounce-headword"]
+ἦθος:
+    ὴθος:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+ἠλί:
+    ηλι:
+        tags: ["accentuation"]
+        sources: ["danker-entry"]
+Ἤρ:
+    ̓́Ηρ:
+        tags: ["accentuation"]
+        sources: ["danker-entry"]
+Ἡρῳδιανοί:
+    Ἡρώδιανοί:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+Ἡρῳδιάς:
+    Ἡρώδιάς:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+Ἡρῳδίων:
+    Ἡρώδίων:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+ἥσσων:
+    ἥσσων/ἥττων:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+ἦχος:
+    ὴχος:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+θά:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword", "mounce-headword"]
+Θάλασσα:
+    θάλασσα:
+        tags: ["case"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+θαμβέομαι:
+    θαμβέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+θανάσιμον:
+    θανάσιμος:
+        tags: ["ον/ος"]
+        sources: ["danker-entry", "mounce-headword"]
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+θερμαίνομαι:
+    θερμαίνω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+θέρμη:
+    θέρμα:
+        tags: ["final η/α"]
+        sources: ["mounce-headword"]
+θροέομαι:
+    θροέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+θυμόομαι:
+    θυμόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+Ἰουνία:
+    <missing>:
+        tags: []
+        sources: ["mounce-headword"]
+ἱππικόν:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    ἱππικός:
+        tags: ["ον/ος"]
+        sources: ["danker-entry", "mounce-headword"]
+ἶρις:
+    ὶρις:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+Ἰσκαριώτης:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+ἵστημι:
+    ἵστημι/ἱστάνω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+Ἰωάννα:
+    Ἰωάν(ν)α:
+        tags: ["movable ν"]
+        sources: ["danker-entry"]
+Ἰωάννης:
+    Ἰωάν(ν)ης:
+        tags: ["movable ν"]
+        sources: ["danker-entry"]
+Ἰωβήλ:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+καθίστημι:
+    καθίστημι/καθιστάνω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+καίτοιγε:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+κακοπαθία:
+    κακοπάθεια:
+        tags: ["ει/ι"]
+        sources: ["mounce-headword"]
+    κακοπάθεια/κακοπαθία:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+κακουχέομαι:
+    κακουχέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+Καλός:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    καλός:
+        tags: ["case"]
+        sources: ["mounce-headword"]
+    Καλοὶ λιμένες:
+        tags: ["space in value"]
+        sources: ["danker-entry"]
+καταβαρύνομαι:
+    καταβαρύνω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+κατακαλύπτομαι:
+    κατακαλύπτω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+κατανύσσομαι:
+    κατανύσσω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+καταποντίζομαι:
+    καταποντίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+κατασφάζω:
+    κατασφάζω/κατασφάττω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+κατεσθίω:
+    κατεσθίω/κατέσθω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+κατεφίστημι:
+    κατεφίσταμαι:
+        tags: ["ημι/αμαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+κατιόομαι:
+    κατιόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+κατοπτρίζομαι:
+    κατοπτρίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+καυσόομαι:
+    καυσόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+κιθαρῳδός:
+    κιθαρώδός:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+κνήθομαι:
+    κνήθω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+κοιμάομαι:
+    κοιμάω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+κολλάομαι:
+    κολλάω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+Κορβᾶν:
+    κορβᾶν:
+        tags: ["case"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+κουμ:
+    κοῦμ:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+κραταιόομαι:
+    κραταιόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+κρείττων:
+    κρείττων/κρείσσων:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+κύκλῳ:
+    κύκλώ:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+κυλίομαι:
+    κυλίω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+Κυρήνιος:
+    Κυρήνιος/Κυρίνιος:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+κύριος:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+Κώς:
+    Κῶς:
+        tags: ["accentuation"]
+        sources: ["bdag-headword"]
+Λασαία:
+    Λασαία/Λασέα:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+λεπτόν:
+    λεπτός:
+        tags: ["ον/ος"]
+        sources: ["danker-entry", "mounce-headword"]
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+Λευίς:
+    Λευί:
+        tags: ["movable ς", "accentuation"]
+        sources: ["danker-entry"]
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+λῃστής:
+    λήστής:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+Λιβερτῖνος:
+    λιβερτῖνος:
+        tags: ["case"]
+        sources: ["danker-entry"]
+Λιμήν:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    λιμήν:
+        tags: ["case"]
+        sources: ["mounce-headword"]
+    Καλοὶ λιμένες:
+        tags: ["space in value"]
+        sources: ["danker-entry"]
+λοιμός:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+λυμαίνομαι:
+    λυμαίνω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "mounce-headword"]
+λυσιτελεῖ:
+    λυσιτελέω:
+        tags: ["@@@"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+λυτρόομαι:
+    λυτρόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+μαραίνομαι:
+    μαραίνω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+μαράνα:
+    μαράναθά:
+        tags: ["@@@"]
+        sources: ["danker-entry"]
+    <missing>:
+        tags: []
+        sources: ["bdag-headword", "mounce-headword"]
+ματαιόομαι:
+    ματαιόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+μέγιστος:
+    μέγας:
+        tags: ["@@@"]
+        sources: ["danker-entry"]
+μεθίστημι:
+    μεθίστημι/μεθιστάνω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+μεθύσκομαι:
+    μεθύσκω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+μείζων:
+    μέγας:
+        tags: ["@@@"]
+        sources: ["danker-entry"]
+μέλαν:
+    μέλας:
+        tags: ["@@@"]
+        sources: ["danker-entry", "mounce-headword"]
+μενοῦν:
+    μενοῦν/μενοῦνγε:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+μενοῦνγε:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    μενοῦν/μενοῦνγε:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+μεταβάλλομαι:
+    μεταβάλλω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+μετακαλέομαι:
+    μετακαλέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+μεταμορφόομαι:
+    μεταμορφόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+μεταπέμπομαι:
+    μεταπέμπω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+μέχρι(ς):
+    μέχρι:
+        tags: ["movable ς"]
+        sources: ["bdag-headword"]
+    μέχρι/μέχρις:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry", "mounce-headword"]
+μήγε:
+    μή and γέ:
+        tags: ["space in value"]
+        sources: ["danker-entry"]
+μηκύνομαι:
+    μηκύνω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+μήν/N:
+    μήν:
+        tags: ["@@@"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+μήν/X:
+    μήν:
+        tags: ["@@@"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+μήτιγε:
+    μήτι γε:
+        tags: ["space in value"]
+        sources: ["danker-entry"]
+μητρολῴας:
+    μητραλῴας/μητρολῴας:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+μίγνυμι:
+    μίγνυμι/μιγνύω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+μιμνῄσκομαι:
+    μιμνῄσκω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+μισθόομαι:
+    μισθόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+μνηστεύομαι:
+    μνηστεύω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry"]
+μοιχάομαι:
+    μοιχάω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+Μολόχ:
+    Μόλοχ:
+        tags: ["accentuation"]
+        sources: ["bdag-headword", "danker-entry"]
+μόνον:
+    μόνος:
+        tags: ["ον/ος"]
+        sources: ["danker-entry"]
+μονόομαι:
+    μονόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+μυέομαι:
+    μυέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+μυστήριον:
+    μυστῆριον:
+        tags: ["accentuation"]
+        sources: ["danker-entry"]
+Ναζαρά:
+    Ναζαρά/Ναζαρέθ/Ναζαρέτ:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+Ναζαρέθ:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    Ναζαρά/Ναζαρέθ/Ναζαρέτ:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+Ναζαρέτ:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    Ναζαρά/Ναζαρέθ/Ναζαρέτ:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+Ναΐν:
+    Ναῖν:
+        tags: ["accentuation"]
+        sources: ["danker-entry"]
+Νέα:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword", "mounce-headword"]
+    νέος:
+        tags: ["@@@"]
+        sources: ["danker-entry"]
+νομοθετέομαι:
+    νομοθετέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+νοσφίζομαι:
+    νοσφίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+νουμηνία:
+    νεομηνία:
+        tags: ["εο contraction"]
+        sources: ["danker-entry", "mounce-headword"]
+Νύμφας:
+    <missing>:
+        tags: []
+        sources: ["mounce-headword"]
+    Νυμφᾶς:
+        tags: ["accentuation"]
+        sources: ["bdag-headword", "danker-entry"]
+ξυράομαι:
+    ξυράω/ξυρέω/ξύρω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+    ξυράω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "mounce-headword"]
+ὀδυνάομαι:
+    ὀδυνάω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+οἶκος:
+    οὶκος:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+οἶμαι:
+    οἴομαι contracted as οἶμαι:
+        tags: ["space in value"]
+        sources: ["danker-entry"]
+    οὶμαι:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+οἶνος:
+    οὶνος:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+ὁμοιάζω:
+    <missing>:
+        tags: []
+        sources: ["mounce-headword"]
+ὁπλίζομαι:
+    ὁπλίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ὀργίζομαι:
+    ὀργίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ὀργυιά:
+    ὀργυιά (ὄργυια):
+        tags: ["space in value"]
+        sources: ["danker-entry"]
+ὀρέγομαι:
+    ὀρέγω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ὀσφῦς:
+    ὀσφύς:
+        tags: ["accentuation"]
+        sources: ["danker-entry"]
+οὐ:
+    οὐ/οὐκ/οὐχ:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+οὔ:
+    οὐ/οὐκ/οὐχ:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+    οὐ:
+        tags: ["accentuation"]
+        sources: ["bdag-headword", "mounce-headword"]
+οὐδείς:
+    οὐδείς/οὐθενός:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+οὖς:
+    οὺς:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+οὕτω(ς):
+    οὕτω:
+        tags: ["movable ς"]
+        sources: ["bdag-headword", "mounce-headword"]
+    οὕτω/οὕτως:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+ὀχλέομαι:
+    ὀχλέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ὀψία:
+    ὄψιος:
+        tags: ["@@@"]
+        sources: ["danker-entry"]
+Πάγος:
+    πάγος:
+        tags: ["case"]
+        sources: ["mounce-headword"]
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    Ἄρειος πάγος:
+        tags: ["space in value"]
+        sources: ["danker-entry"]
+πανοικεί:
+    πανοικεί/πανοικί:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+πάντῃ:
+    πάντή:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+παρακαλύπτομαι:
+    παρακαλύπτω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+παραλέγομαι:
+    παραλέγω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+παραλύομαι:
+    παραλύω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+παραπλήσιον:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword", "mounce-headword"]
+    παραπλήσιος:
+        tags: ["ον/ος"]
+        sources: ["danker-entry"]
+παρεισδύω:
+    παρεισδύ(ν)ω:
+        tags: ["movable ν"]
+        sources: ["danker-entry"]
+Πάρθος:
+    Πάρθοι:
+        tags: ["@@@"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+παρίστημι:
+    παρίστημι/παριστάνω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+παροξύνομαι:
+    παροξύνω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+παχύνομαι:
+    παχύνω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+πεζῇ:
+    πεζός:
+        tags: ["η/ος"]
+        sources: ["danker-entry"]
+περιβλέπομαι:
+    περιβλέπω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+περιζώννυμι:
+    περιζώννυμι/περιζωννύω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+περιΐστημι:
+    περιίστημι:
+        tags: ["accentuation"]
+        sources: ["bdag-headword"]
+περιποιέομαι:
+    περιποιέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+περιρήγνυμι:
+    περι(ρ)ρήγνυμι:
+        tags: ["double ρ"]
+        sources: ["danker-entry"]
+περισπάομαι:
+    περισπάω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+περισσότερον:
+    περισσότερος:
+        tags: ["ον/ος"]
+        sources: ["danker-entry"]
+    <missing>:
+        tags: []
+        sources: ["bdag-headword", "mounce-headword"]
+πέρυσι(ν):
+    πέρυσι:
+        tags: ["movable ν"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+πετρῶδες:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    πετρώδης:
+        tags: ["@@@"]
+        sources: ["danker-entry", "mounce-headword"]
+πιθανολογία:
+    πιθαναλογία:
+        tags: ["@@@"]
+        sources: ["danker-entry"]
+πιστόομαι:
+    πιστόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+πλοῦς:
+    πλόος:
+        tags: ["οο contraction"]
+        sources: ["bdag-headword", "danker-entry"]
+Πόλις:
+    πόλις:
+        tags: ["case"]
+        sources: ["danker-entry", "mounce-headword"]
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+πολιτεύομαι:
+    πολιτεύω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+πορεύομαι:
+    πορεύω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry"]
+πορρώτερον:
+    <missing>:
+        tags: []
+        sources: ["mounce-headword"]
+    πόρρω:
+        tags: ["@@@"]
+        sources: ["danker-entry"]
+πότερον:
+    πότερος:
+        tags: ["ον/ος"]
+        sources: ["danker-entry"]
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+πραϋπάθια:
+    πραϋπαθία:
+        tags: ["accentuation"]
+        sources: ["bdag-headword", "danker-entry"]
+    πραϋπάθεια:
+        tags: ["ει/ι"]
+        sources: ["mounce-headword"]
+πρίζω:
+    πρίζω/πρίω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+Πρίσκα:
+    Πρίσκα/Πρίσκιλλα (dim.):
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+Πρίσκιλλα:
+    Πρίσκα:
+        tags: ["@@@"]
+        sources: ["bdag-headword"]
+    Πρίσκα/Πρίσκιλλα (dim.):
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+προαιρέομαι:
+    προαιρέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+προβλέπομαι:
+    προβλέπω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+προεπαγγέλλομαι:
+    προεπαγγέλλω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+προέχομαι:
+    προέχω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+προκαλέομαι:
+    προκαλέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+προσαναλίσκω:
+    προσαναλίσκω/προσαναλόω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+προσαπειλέομαι:
+    προσαπειλέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+προσκαλέομαι:
+    προσκαλέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+προσκληρόομαι:
+    προσκληρόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+προσκλίνομαι:
+    προσκλίνω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+προσκολλάομαι:
+    προσκολλάω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+προσλαμβάνομαι:
+    προσλαμβάνω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+πρόσλημψις:
+    πρόσλημψις/πρόσληψις:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+προσορμίζομαι:
+    προσορμίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+προσποιέομαι:
+    προσποιέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+προσρήγνυμι:
+    προσρήγνυμι/προσρήσσω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+προτίθεμαι:
+    προτίθημι:
+        tags: ["ημι/εμαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+προτρέπομαι:
+    προτρέπω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+προχειρίζομαι:
+    προχειρίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+πρῶτον:
+    πρῶτος:
+        tags: ["ον/ος"]
+        sources: ["danker-entry"]
+πτηνόν:
+    πτηνός:
+        tags: ["ον/ος"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+πτοέομαι:
+    πτοέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+πτύρομαι:
+    πτύρω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+πυκνά:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+πυρόομαι:
+    πυρόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ραββουνι:
+    ῥαββουνί:
+        tags: ["accentuation"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ῥᾳδιούργημα:
+    ῥάδιούργημα:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+ῥᾳδιουργία:
+    ῥάδιουργία:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+ῥεδή:
+    ῥέδη:
+        tags: ["accentuation"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ῥιζόομαι:
+    ῥιζόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ῥιπίζομαι:
+    ῥιπίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ῥίπτω:
+    ῥίπτω/ῥιπτέω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+ῥώννυμαι:
+    ῥώννυμι:
+        tags: ["υμι/υμαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+σαβαχθάνι:
+    σαβαχθανι:
+        tags: ["accentuation"]
+        sources: ["danker-entry"]
+σαίνομαι:
+    σαίνω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+Σαλείμ:
+    <missing>:
+        tags: []
+        sources: ["mounce-headword"]
+Σαρών:
+    Σαρων:
+        tags: ["accentuation"]
+        sources: ["bdag-headword", "danker-entry"]
+Σατανᾶς:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    σατανᾶς:
+        tags: ["case"]
+        sources: ["danker-entry"]
+Σεβαστός:
+    σεβαστός:
+        tags: ["case"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+σέβομαι:
+    σέβω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+Σεμεΐν:
+    Σεμεῖν:
+        tags: ["accentuation"]
+        sources: ["danker-entry"]
+σημειόομαι:
+    σημειόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+Σιλᾶς:
+    Σίλας:
+        tags: ["accentuation"]
+        sources: ["danker-entry", "mounce-headword"]
+Σίλας:
+    Σιλᾶς:
+        tags: ["accentuation"]
+        sources: ["bdag-headword"]
+Σινᾶ:
+    Σινά:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+σκοτίζομαι:
+    σκοτίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+σκοτόομαι:
+    σκοτόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+σκῦλα:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword", "mounce-headword"]
+    σκῦλον:
+        tags: ["ον/α"]
+        sources: ["danker-entry"]
+Σολομῶν:
+    Σολομών:
+        tags: ["accentuation"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+σπάομαι:
+    σπάω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+σπένδομαι:
+    σπένδω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+στάδιος:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+στέλλομαι:
+    στέλλω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+στενοχωρέομαι:
+    στενοχωρέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+Στοά:
+    στοά:
+        tags: ["case"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+στοιχεῖα:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+στρατεύομαι:
+    στρατεύω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry"]
+στρώννυμι:
+    στρωννύω:
+        tags: ["@@@"]
+        sources: ["bdag-headword"]
+    στρωννύω/στρώννυμι:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+συγκατατίθεμαι:
+    συγκατατίθημι:
+        tags: ["ημι/εμαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συγχέω:
+    συγχέω/συγχύν(ν)ω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+συλλυπέομαι:
+    συλλυπέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συμμαρτυρέω:
+    συμματυρέω:
+        tags: ["@@@"]
+        sources: ["danker-entry"]
+συμμερίζομαι:
+    συμμερίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συμμορφίζομαι:
+    συμμορφίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συμπαρακαλέομαι:
+    συμπαρακαλέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+σύμφορον:
+    σύμφορος:
+        tags: ["ον/ος"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συμφυλέτης:
+    <missing>:
+        tags: []
+        sources: ["danker-entry"]
+συμφύομαι:
+    συμφύω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συναλίζομαι:
+    συναλίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συναναμίγνυμι:
+    συναναμείγνυμι:
+        tags: ["ει/ι"]
+        sources: ["mounce-headword"]
+συναπάγομαι:
+    συναπάγω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συναπόλλυμαι:
+    συναπόλλυμι:
+        tags: ["υμι/υμαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συναρμολογέομαι:
+    συναρμολογέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συναυξάνομαι:
+    συναυξάνω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συνδέομαι:
+    συνδέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συνδοξάζομαι:
+    συνδοξάζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+σύνειμι:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+συνεπιτίθεμαι:
+    συνεπιτίθημι:
+        tags: ["ημι/εμαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συνθάπτομαι:
+    συνθάπτω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συνθλάομαι:
+    συνθλάω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συνίημι:
+    συνίημι/συνίω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+σύνιημι:
+    συνίημι:
+        tags: ["accentuation"]
+        sources: ["bdag-headword", "mounce-headword"]
+    συνίημι/συνίω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+συνιστάνω:
+    συνίστημι:
+        tags: ["@@@"]
+        sources: ["danker-entry"]
+    <missing>:
+        tags: []
+        sources: ["bdag-headword", "mounce-headword"]
+συντίθεμαι:
+    συντίθημι:
+        tags: ["ημι/εμαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συσταυρόομαι:
+    συσταυρόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+συσχηματίζομαι:
+    συσχηματίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+Ταβέρνη:
+    ταβέρναι:
+        tags: ["@@@"]
+        sources: ["danker-entry", "mounce-headword"]
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+ταλιθα:
+    ταλιθά:
+        tags: ["accentuation"]
+        sources: ["danker-entry", "mounce-headword"]
+τάχιον:
+    ταχέως:
+        tags: ["@@@"]
+        sources: ["danker-entry", "mounce-headword"]
+ταχύ:
+    ταχύς:
+        tags: ["movable ς"]
+        sources: ["danker-entry", "mounce-headword"]
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+τετρααρχέω:
+    τετρααρχέω (some edd. τετραρχέω):
+        tags: ["space in value"]
+        sources: ["danker-entry"]
+τήκομαι:
+    τήκω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+τίθημι:
+    τίθημι/τιθέω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+τις:
+    τὶς:
+        tags: ["accentuation"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+τολμηρότερον:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+τομώτερος:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    τομός:
+        tags: ["-τερος"]
+        sources: ["danker-entry", "mounce-headword"]
+τοὐναντίον:
+    τὸ ἐναντίον:
+        tags: ["space in value"]
+        sources: ["danker-entry"]
+τοὔνομα:
+    τὸ ὄνομα:
+        tags: ["space in value"]
+        sources: ["danker-entry"]
+τραχηλίζομαι:
+    τραχηλίζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+Τρεῖς:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    τρεῖς:
+        tags: ["case"]
+        sources: ["danker-entry", "mounce-headword"]
+τρίμηνον:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword", "mounce-headword"]
+    τρίμηνος:
+        tags: ["ον/ος"]
+        sources: ["danker-entry"]
+τρίτον:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword", "mounce-headword"]
+    τρίτος:
+        tags: ["ον/ος"]
+        sources: ["danker-entry"]
+τύφομαι:
+    τύφω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+τυφόομαι:
+    τυφόω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry"]
+ὑπεραίρομαι:
+    ὑπεραίρω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ὑπερεκχύννομαι:
+    ὑπερεκχύννω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "mounce-headword"]
+    ὑπερεκχύν(ν)ω:
+        tags: ["@@@"]
+        sources: ["danker-entry"]
+ὑποδείκνυμι:
+    ὑποδείκνυμι/ὑποδεικνύω:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+ὑποδέομαι:
+    ὑποδέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ὕστερον:
+    ὕστερος:
+        tags: ["ον/ος"]
+        sources: ["danker-entry", "mounce-headword"]
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+φαντάζομαι:
+    φαντάζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+Φαρές:
+    Φάρες:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+φαρμακός:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+φιλονεικία:
+    φιλον(ε)ικία:
+        tags: ["ει/ι"]
+        sources: ["danker-entry"]
+φιλόνεικος:
+    φιλόν(ε)ικος:
+        tags: ["ει/ι"]
+        sources: ["danker-entry"]
+φοβέομαι:
+    φοβέω:
+        tags: ["ω/ομαι", "accentuation"]
+        sources: ["mounce-headword"]
+    φοβέω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry"]
+φόβητρον:
+    φόβητρον/φόβηθρον:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+φοῖνιξ:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    φοῖνιξ/φοίνιξ:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+Φοῖνιξ:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+Φόρον:
+    φόρον:
+        tags: ["case"]
+        sources: ["mounce-headword"]
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+    Ἀππίου Φόρον:
+        tags: ["space in value"]
+        sources: ["danker-entry"]
+Φύγελος:
+    Φύγελος/Φύγελλος:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+Χαλδαῖος:
+    χαλδαῖος:
+        tags: ["case"]
+        sources: ["mounce-headword"]
+Χανάαν:
+    χανάαν:
+        tags: ["case"]
+        sources: ["mounce-headword"]
+Χαναναῖος:
+    χαναναῖος:
+        tags: ["case"]
+        sources: ["mounce-headword"]
+Χαρράν:
+    χαρράν:
+        tags: ["case"]
+        sources: ["mounce-headword"]
+χειμάζομαι:
+    χειμάζω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+χείμαρρος:
+    χειμάρρους:
+        tags: ["@@@"]
+        sources: ["mounce-headword"]
+Χερούβ:
+    Χεροῦβ:
+        tags: ["accentuation"]
+        sources: ["danker-entry"]
+Χίος:
+    χίος:
+        tags: ["case"]
+        sources: ["mounce-headword"]
+Χλόη:
+    χλόη:
+        tags: ["case"]
+        sources: ["mounce-headword"]
+Χοραζίν:
+    χοραζίν:
+        tags: ["case"]
+        sources: ["mounce-headword"]
+Χουζᾶς:
+    χουζᾶς:
+        tags: ["case"]
+        sources: ["mounce-headword"]
+χρεοφειλέτης:
+    χρεοφειλέτης/χρεωφειλέτης:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
+χρήσιμον:
+    χρήσιμος:
+        tags: ["ον/ος"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+χρῖσμα:
+    χρίσμα:
+        tags: ["accentuation"]
+        sources: ["danker-entry"]
+Χριστιανός:
+    χριστιανός:
+        tags: ["case"]
+        sources: ["mounce-headword"]
+Χριστός:
+    χριστός:
+        tags: ["case"]
+        sources: ["mounce-headword"]
+χρύσεος:
+    <missing>:
+        tags: []
+        sources: ["mounce-headword"]
+    χρυσοῦς:
+        tags: ["@@@"]
+        sources: ["danker-entry"]
+χῶρος:
+    <missing>:
+        tags: []
+        sources: ["bdag-headword"]
+ψεύδομαι:
+    ψεύδω:
+        tags: ["ω/ομαι"]
+        sources: ["danker-entry"]
+ψίξ:
+    <missing>:
+        tags: []
+        sources: ["mounce-headword"]
+ψύχομαι:
+    ψύχω:
+        tags: ["ω/ομαι"]
+        sources: ["bdag-headword", "danker-entry", "mounce-headword"]
+ὦ:
+    ὼ:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+Ὦ:
+    Ω:
+        tags: ["accentuation"]
+        sources: ["bdag-headword", "danker-entry"]
+ᾠδή:
+    ὤδή:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+ὦμος:
+    ὼμος:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+ᾠόν:
+    ὤόν:
+        tags: ["accentuation"]
+        sources: ["mounce-headword"]
+Ὡσηέ:
+    Ὡσηέ/Ὡσῆε:
+        tags: ["/ in value @@"]
+        sources: ["danker-entry"]
