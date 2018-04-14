@@ -33,7 +33,7 @@ There are also some additional mapping files (all derived from `lexemes.yaml`):
 
   * `alt_mapping.yaml` a mapping from alternative spellings to the key found in `lexemes.yaml`
   * `gk_mapping.yaml` a mapping from G/K number to the key found in `lexemes.yaml`
-  * `strongs_mapping.yaml` a mapping from Strongs number fo the key found in `lexemes.yaml`
+  * `strongs_mapping.yaml` a mapping from Strongs number to the key found in `lexemes.yaml`
 
 There is also an initial mapping for Nestle 1904 lemmas (via Strongs numbers) at `nestle-match.txt`.
 
