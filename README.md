@@ -39,6 +39,8 @@ There is also an initial mapping for Nestle 1904 lemmas (via Strongs numbers) at
 
 `differences.yaml` and `NOTES.md` contain old notes from my work on this back in 2013. I need to work through them and update them.
 
+A newly added file `conflation_sets.txt` lists all the sets of words conflated. Not every pair in every set has been conflated but the file partitions all conflated words such that any pair that is conflated appears in the same partition.
+
 
 ## What's Planned
 
